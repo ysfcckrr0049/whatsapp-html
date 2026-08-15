@@ -1,0 +1,20 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.yusuf.sarjkilidi.v5'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.yusuf.sarjkilidi.v5"
+        minSdk 26
+        targetSdk 28
+        versionCode 5
+        versionName "5.0"
+    }
+}
+
+dependencies {
+}
+
